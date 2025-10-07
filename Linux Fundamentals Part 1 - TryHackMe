@@ -1,0 +1,44 @@
+# 🐧 TryHackMe — Linux Fundamentals Part 1
+
+In **Linux Fundamentals Part 1**, I explored the foundational concepts and hands-on skills needed to begin working confidently in a Linux environment.
+
+ 🔹 Key Concepts & Commands Learned
+
+ 1. Deploying and Accessing a Linux Machine
+- Learned how to deploy and connect to a Linux machine in TryHackMe.
+
+ 2. Basic Commands
+- echo — Outputs any text or variable provided.  
+- whoami — Displays the username of the currently logged-in user.
+
+ 3. Navigating the Filesystem
+- ls — Lists all directories and files in the current location.  
+- cd — Changes directories; used to move between folders or return to the home directory.  
+- pwd — Prints the full path of the current working directory.  
+- cat — Displays the content of a file directly in the terminal.
+
+ 4. Searching for Files and Data
+- find — Searches for files by name or pattern.  
+  Example: `find / -name "*.txt"` finds all files ending with `.txt`.  
+- grep — Searches for specific text or patterns within files.  
+- wc -l access.log — Counts the number of lines (entries) inside `access.log`.
+
+ 5. Shell Operators
+- & — Executes a command in the background.  
+- && — Chains multiple commands (runs the next only if the previous succeeds).  
+- > — Redirects command output to a file, overwriting its contents.  
+- >> — Appends command output to the end of a file instead of overwriting it.
+
+---
+
+ 🧠 Recap
+
+By completing this module, I learned to:
+
+- Understand why Linux is widely used in IT and cybersecurity.  
+- Interact confidently with a Linux terminal.  
+- Run and combine essential commands to manage files and directories.  
+- Use tools like **`find`** and **`grep`** to efficiently locate information.  
+- Enhance commands using **shell operators** for better automation and control.
+
+📘 *Room Completed:* [TryHackMe — Linux Fundamentals Part 1]( https://tryhackme.com/room/linuxfundamentalspart1 )
