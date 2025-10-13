@@ -1,0 +1,92 @@
+🪟 Windows Fundamentals Task 1 – Windows Edition (Summary)
+
+🧠 Overview
+
+Windows, first released in 1985, is Microsoft’s most used operating system for home and business.
+
+Its popularity makes it a frequent target for hackers and malware.
+
+Each version improved usability and security.
+
+
+
+---
+
+🕰️ Evolution of Windows
+
+Windows XP (2001): Stable, popular, long-lasting. End-of-life caused upgrade rush.
+
+Windows Vista (2007): Major redesign but poor performance and compatibility → short-lived.
+
+Windows 7 (2009): Fast, reliable, widely adopted; later reached end of support.
+
+Windows 8 / 8.1 (2012–2013): Touchscreen design, removed Start Menu, unpopular.
+
+Windows 10 (2015): Combined best of 7 & 8, added Cortana, Defender, Virtual Desktops. Support ends Oct 14, 2025.
+
+Windows 11 (2021–Present): Modern design, TPM 2.0 security, better performance. Two editions:
+
+Home – general users
+
+Pro – business features (BitLocker, Remote Desktop, Group Policy)
+
+
+
+
+---
+
+⚙️ Home vs Pro (Key Differences)
+
+Feature	Home	Pro
+
+BitLocker Encryption	❌	✅
+Remote Desktop	❌	✅
+Group Policy & Hyper-V	❌	✅
+
+
+💡 BitLocker (Pro only): Encrypts drives to protect data if stolen.
+
+
+---
+
+🖥️ Server Versions
+
+TryHackMe VM: Windows Server 2019 Standard
+
+Latest release: Windows Server 2025
+
+
+
+---
+
+🔒 Security Improvements
+
+Added features across versions:
+
+Firewall, Windows Defender, User Account Control (UAC), BitLocker
+
+
+Regular security updates enhance protection.
+
+
+
+---
+
+📅 Key Dates
+
+Windows 10 EOL: October 14, 2025
+
+Windows 11 Released: October 5, 2021
+
+Retirement announcement: June 2021
+
+
+
+---
+
+🧾 Summary
+
+Windows evolved from XP → 11 with major focus on stability, security, and performance.
+BitLocker is Pro-only.
+Windows Server 2025 is the latest server OS.
+Microsoft continues improving Windows for security and usability. 
