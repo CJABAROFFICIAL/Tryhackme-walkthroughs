@@ -1,0 +1,6 @@
+Task 1 Note
+GUI or Graphical User Interface is different from CLI or Command Line Interface. 
+cmd.exe is the default command-line in Windows environment. 
+I learned how to establish an SSH connection from the attackbox.
+I used ssh USERNAME@IP_ADDRESS command along with a provided password.
+The connection to the target VM was a success.
